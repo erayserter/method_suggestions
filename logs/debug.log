@@ -1,0 +1,131 @@
+Dec 14, 2022 1:40:28 PM SuggestionEngine main
+INFO: Info Log
+Dec 14, 2022 1:40:29 PM SuggestionEngine suggest
+INFO: Building the parse tree...
+Dec 14, 2022 1:40:48 PM SuggestionEngine suggest
+INFO: Built the parse tree...(took 18 seconds)
+Dec 14, 2022 1:40:48 PM SuggestionEngine suggest
+INFO: Collecting the public method names...
+Dec 14, 2022 1:40:48 PM SuggestionEngine suggest
+INFO: Collected the public method names...
+Dec 14, 2022 1:40:48 PM SuggestionEngine suggest
+INFO: [length, isEmpty, charAt, codePointAt, codePointBefore, codePointCount, offsetByCodePoints, getChars, getBytes, equals, contentEquals, equalsIgnoreCase, compareTo, compare, compareToIgnoreCase, regionMatches, startsWith, endsWith, hashCode, indexOf, lastIndexOf, substring, subSequence, concat, replace, matches, contains, replaceFirst, replaceAll, split, toLowerCase, toUpperCase, trim, toString, toCharArray, format, valueOf, copyValueOf, intern]
+Dec 14, 2022 1:40:48 PM SuggestionEngine suggest
+INFO: Finding the suggestions...
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: length: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: isEmpty: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: charAt: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: codePointAt: 10.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: codePointBefore: 12.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: codePointCount: 13.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: offsetByCodePoints: 16.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: getChars: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: getBytes: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: equals: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: contentEquals: 12.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: equalsIgnoreCase: 15.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: compareTo: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: compare: 5.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: compareToIgnoreCase: 15.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: regionMatches: 11.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: startsWith: 9.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: endsWith: 8.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: hashCode: 8.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: indexOf: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: lastIndexOf: 10.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: substring: 9.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: subSequence: 10.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: concat: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: replace: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: matches: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: contains: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: replaceFirst: 10.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: replaceAll: 9.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: split: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: toLowerCase: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: toUpperCase: 4.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: trim: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: toString: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: toCharArray: 8.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: format: 6.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: valueOf: 7.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: copyValueOf: 9.0
+
+Dec 14, 2022 1:40:48 PM SuggestionEngine getTopKNeighbor
+INFO: intern: 6.0
+
